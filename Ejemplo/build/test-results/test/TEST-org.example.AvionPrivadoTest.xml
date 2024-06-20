@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.AvionPrivadoTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-06-14T18:09:02" hostname="DESKTOP-6AIQ3JQ" time="0.005">
+  <properties/>
+  <testcase name="volar()" classname="org.example.AvionPrivadoTest" time="0.001"/>
+  <testcase name="getCapacidadCombustible()" classname="org.example.AvionPrivadoTest" time="0.001"/>
+  <testcase name="getConsumoCombustible()" classname="org.example.AvionPrivadoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
